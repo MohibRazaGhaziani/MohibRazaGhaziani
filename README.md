@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Mohib+Raza+Ghaziani;Full-Stack+Web+Developer;MERN+Stack+Developer;React.js+%7C+Node.js+%7C+MongoDB;Always+Learning+%26+Building" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MohibRazaGhaziani&label=Profile%20Views&color=0A66C2&style=for-the-badge" />
-</p>
-
 <h3 align="center">
 Full-Stack Web Developer | MERN Stack Developer
 </h3>
@@ -93,14 +89,6 @@ I'm a **Full-Stack Web Developer** passionate about building modern, responsive,
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=MohibRazaGhaziani&theme=github-dark&hide_border=true"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohibRazaGhaziani&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
