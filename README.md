@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Mohib+Raza+Ghaziani;Full-Stack+Web+Developer;MERN+Stack+Developer;React.js+%7C+Node.js+%7C+MongoDB;Always+Learning+%26+Building" alt="Typing SVG" />
 </p>
-
 <h3 align="center">
 Full-Stack Web Developer | MERN Stack Developer
 </h3>
@@ -26,7 +25,7 @@ Building modern, responsive, and scalable web applications with the MERN Stack.
 
 ---
 
-I'm a **Full-Stack Web Developer** passionate about building modern, responsive, and scalable web applications. Currently pursuing a **Bachelor's degree in Software Engineering** at **Sir Syed University of Engineering & Technology (SSUET)**, I continuously improve my skills through hands-on projects and real-world development.
+I'm a **Full-Stack Web Developer** specializing in the **MERN Stack**, focused on building modern, scalable, and user-centric web applications. I enjoy transforming ideas into real-world software solutions while continuously improving my technical expertise through hands-on projects and continuous learning. Currently pursuing a **Bachelor's degree in Software Engineering** at **Sir Syed University of Engineering & Technology (SSUET)**, I continuously improve my skills through hands-on projects and real-world development.
 
 ---
 
@@ -35,7 +34,7 @@ I'm a **Full-Stack Web Developer** passionate about building modern, responsive,
 - 🎓 BS Software Engineering @ SSUET
 - 💻 Full-Stack Web Developer specializing in the MERN Stack
 - 📚 Completed the MERN Stack Development Program at Saylani Mass IT Training (SMIT)
-- 🌱 Currently exploring Java, Object-Oriented Programming (OOP), and Data Structures & Algorithms
+- 🌱 Currently strengthening my knowledge of Java, Object-Oriented Programming (OOP), and Data Structures & Algorithms
 - 🤝 Open to internships, collaborations, and open-source contributions
 - ⚡ Passionate about writing clean code and building user-focused applications
 
@@ -80,7 +79,7 @@ I'm a **Full-Stack Web Developer** passionate about building modern, responsive,
 
 - 🚀 Building Full-Stack MERN Applications
 - ⚙️ Strengthening Backend Development
-- 📚 Learning Data Structures & Algorithms
+- 📚 Enhancing Problem-Solving with Data Structures & Algorithms
 - 💡 Exploring Modern Software Engineering Practices
 
 ---
@@ -101,6 +100,6 @@ I'm a **Full-Stack Web Developer** passionate about building modern, responsive,
 
 ---
 
-> **"Turning ideas into scalable software, one project at a time."**
+> **"Building software that solves real-world problems through clean code and continuous learning."**
 
 ⭐ *Thanks for visiting my profile!*
