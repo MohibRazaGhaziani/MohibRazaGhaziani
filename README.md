@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Mohib+Raza+Ghaziani;Full-Stack+Web+Developer;MERN+Stack+Developer;React.js+|+Node.js+|+MongoDB;Always+Learning+%26+Building" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Mohib+Raza+Ghaziani;Full-Stack+Web+Developer;MERN+Stack+Developer;React.js+%7C+Node.js+%7C+MongoDB;Always+Learning+%26+Building" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MohibRazaGhaziani&label=Profile%20Views&color=0A66C2&style=for-the-badge" />
 </p>
 
 <h3 align="center">
@@ -26,18 +30,18 @@ Building modern, responsive, and scalable web applications with the MERN Stack.
 
 ---
 
-I'm a **Full-Stack Web Developer** passionate about building modern, responsive, and scalable web applications. Currently pursuing a **Bachelor's degree in Software Engineering** at **Sir Syed University of Engineering & Technology (SSUET)** while continuously improving my skills through hands-on projects and real-world development.
+I'm a **Full-Stack Web Developer** passionate about building modern, responsive, and scalable web applications. Currently pursuing a **Bachelor's degree in Software Engineering** at **Sir Syed University of Engineering & Technology (SSUET)**, I continuously improve my skills through hands-on projects and real-world development.
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
 - 🎓 BS Software Engineering @ SSUET
 - 💻 Full-Stack Web Developer specializing in the MERN Stack
 - 📚 Completed the MERN Stack Development Program at Saylani Mass IT Training (SMIT)
 - 🌱 Currently exploring Java, Object-Oriented Programming (OOP), and Data Structures & Algorithms
 - 🤝 Open to internships, collaborations, and open-source contributions
-- ⚡ Passionate about writing clean, maintainable, and scalable code
+- ⚡ Passionate about writing clean code and building user-focused applications
 
 ---
 
@@ -66,7 +70,7 @@ I'm a **Full-Stack Web Developer** passionate about building modern, responsive,
 
 ---
 
-# 📂 Featured Projects
+## 📂 Featured Projects
 
 - 📝 MERN Blog Application
 - 🍔 Food Delivery Vendor Panel
@@ -76,7 +80,7 @@ I'm a **Full-Stack Web Developer** passionate about building modern, responsive,
 
 ---
 
-# 🎯 Current Focus
+## 🎯 Current Focus
 
 - 🚀 Building Full-Stack MERN Applications
 - ⚙️ Strengthening Backend Development
@@ -85,15 +89,23 @@ I'm a **Full-Stack Web Developer** passionate about building modern, responsive,
 
 ---
 
-# 📈 Contribution Graph
+## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohibRazaGhaziani&theme=github-dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=MohibRazaGhaziani&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
 
-# 🌐 Connect With Me
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohibRazaGhaziani&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/mohib-raza-ghaziani-82ab03339
 - 💻 GitHub: https://github.com/MohibRazaGhaziani
@@ -103,4 +115,4 @@ I'm a **Full-Stack Web Developer** passionate about building modern, responsive,
 
 > **"Turning ideas into scalable software, one project at a time."**
 
-⭐ Thanks for visiting my profile!
+⭐ *Thanks for visiting my profile!*
